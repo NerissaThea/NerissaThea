@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NerissaThea
 - 👀 I’m interested in games
-- 🌱 I’m currently learning Computer Science (Software Dev)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Science (Software Development)
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me NhiTDNerissa231@gmail.com
 
 <!---
